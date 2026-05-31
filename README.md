@@ -1,5 +1,5 @@
 # Hiii, I'm Abi<3:
-​☕ Artificial interlligence & data science student ₊✩‧ <br>​🪐 cooking up, a secret web project floating in the cloud ₊✩‧ <br>​🤝 orbiting around, looking to team up for creative hacking & design jams ₊✩‧ <br>​🔮 lost in space, needing a hand with backend deployments & database mystery ₊✩‧ <br>​🧪 leveling up, decoding advanced UI/UX secrets & systems architecture ₊✩‧ <br>​ 👾 fun fact, my code works on caffeine and magic (｡· v ·｡)₊✩‧ 
+​☕ Artificial intelligence & data science student ₊✩‧ <br>​🪐 cooking up, a secret web project floating in the cloud ₊✩‧ <br>​🤝 orbiting around, looking to team up for creative hacking & design jams ₊✩‧ <br>​🔮 lost in space, needing a hand with backend deployments & database mystery ₊✩‧ <br>​🧪 leveling up, decoding advanced UI/UX secrets & systems architecture ₊✩‧ <br>​ 👾 fun fact, my code works on caffeine and magic (｡· v ·｡)₊✩‧ 
 
 
 ## 🌐 Socials:
