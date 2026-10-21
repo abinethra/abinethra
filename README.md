@@ -1,5 +1,3 @@
-## Ship · learn · repeat
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=abinethra&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F245347741%3Fu%3Dc96750c9ffbc4d97482a72cdff2179825bbfd641%26v%3D4" alt="abinethra hero visual" />
 </p>
