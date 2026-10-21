@@ -9,7 +9,6 @@
 > ✩°｡⋆⸜ 🎧 | Artificial Intelligence &amp; Data Science Student‎ ‎ ‎ 
 
 - 📍 Based in **Chennai**
-- 👥 **3** followers · **4** following
 
 *Small, useful work over vague claims.*
 
@@ -44,4 +43,3 @@
 
 <a href="https://github.com/abinethra">GitHub</a>
 
-<p align="center"><sub>Abi Nethra  · Indie hacker profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
